@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Profile Banner Image](https://raw.githubusercontent.com/adarsh45/adarsh45/main/I%20write%20code.png)
+
+
 - 🔭 I’m currently working on: Converting a Java Codebase (Android app) to Flutter Codebase.
 - 🌱 I’m currently learning: Kotlin & Flutter
 - 👯 I’m looking to collaborate on: NodeJS
